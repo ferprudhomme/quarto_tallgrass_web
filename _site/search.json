@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "indice.html",
+    "href": "indice.html",
+    "title": "indice",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "indice.html#quarto",
+    "href": "indice.html#quarto",
+    "title": "indice",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "indice.html#running-code",
+    "href": "indice.html#running-code",
+    "title": "indice",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "quarto_tallgrass_web.html",
+    "href": "quarto_tallgrass_web.html",
+    "title": "quarto_tallgrass_web",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "quarto_tallgrass_web.html#quarto",
+    "href": "quarto_tallgrass_web.html#quarto",
+    "title": "quarto_tallgrass_web",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
+  }
+]
